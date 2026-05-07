@@ -41,7 +41,7 @@ export default function HeroMonolith() {
       <div className="absolute top-0 left-0 right-0 z-10 px-6 md:px-12 pt-8">
         <div className="max-w-screen-2xl mx-auto flex justify-between items-center">
           <span className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
-            Mechra
+           Mechra
           </span>
           <span className="font-mono text-xs text-muted-foreground">
             © 2026
@@ -76,7 +76,7 @@ export default function HeroMonolith() {
 
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-8">
             <p className="max-w-lg text-lg leading-relaxed text-muted-foreground font-inter">
-              The conversion engine that transforms digital presence into measurable business outcomes. Engineered for precision. Built for Mechra.
+              The conversion engine that transforms digital presence into measurable business outcomes. Engineered for precision. Built for you.
             </p>
 
             <div className="flex items-center gap-6">
